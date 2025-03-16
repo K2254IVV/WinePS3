@@ -1,2 +1,2 @@
-# WinePS3
-WinePS3 - это замечательный проект
+
+![Logo](logo.png)
